@@ -34,5 +34,3 @@ Run Application.java
 Customer ID : 1 
 Password : abc
 
-This is a simpl
-
